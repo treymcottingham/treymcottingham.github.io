@@ -20,6 +20,7 @@ form {
 
 .pf-widget-content {
   background-image: url("https://a.omappapi.com/users/3ce9597f1fd9/images/69c774517cdf1597087794-fast-bg.jpg");
+  background-size:100% 100%;
 }
 
 .optin-copy .pf-widget-btn.pf-widget-ok {
